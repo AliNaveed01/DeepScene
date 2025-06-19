@@ -40,11 +40,9 @@
 
 ---
 
-## 🖼️ Example Scenes
+## 🔮 DeepScene UI Preview
 
-| Mountain | Street | Forest |
-|----------|--------|--------|
-| ![](https://drive.google.com/uc?export=view&id=15WfuG3eLvbtW3EZLchdkmWZDAKxkvCLZ) | ![](https://drive.google.com/uc?export=view&id=16XyDa1zo6ch9crDlKTL8P46I1PHd_mYj) | *(Add more images if needed)* |
+![DeepScene UI](https://drive.google.com/uc?export=view&id=1uLbF0Fbo7GVjOxDKocqpv4YrNNpkhttf)
 
 ---
 
